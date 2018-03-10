@@ -1,2 +1,4 @@
 # Voice-Gender-Identification-System
-A python program that will take a voice sample file and output the gender of the voice
+Project from Music Information retrieval class.
+A python program that will take a voice sample file and output the gender of the voice by calculating the voice feature and predict the gender using decision tree and SVC classifier
+
